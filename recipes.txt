@@ -6,3 +6,5 @@ java
 python
 git 
 jenkit
+
+jira
